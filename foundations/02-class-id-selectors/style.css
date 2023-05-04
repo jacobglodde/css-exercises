@@ -1,5 +1,5 @@
 .odd {
-    color: rgba(255, 0, 20, 0.5);
+    background-color: rgba(255, 0, 20, 0.5);
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
@@ -11,3 +11,10 @@
 #num3 {
     font-size: 36px;
 }
+
+#num4 {
+    background-color: hsla(80, 53%, 33%, 0.9);
+    font-size: 24px;
+    font-weight: bold;
+}
+
